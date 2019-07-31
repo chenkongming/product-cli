@@ -53,7 +53,7 @@
 - typescript
 - brain-vue-cli 脚手架
 - webpack 自动化构建
-- hoolinks 基础服务库
+
 
 #### 关键业务描述
 
